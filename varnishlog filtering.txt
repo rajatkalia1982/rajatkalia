@@ -1,0 +1,4 @@
+varnishlog filtering
+
+for xatka.com / agile media labs
+Klaas Naaijkens
