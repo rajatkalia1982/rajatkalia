@@ -1,0 +1,9 @@
+PSpice ( Cadence - Orcad )
+
+Rock-Show
+Ophthalmic
+
+
+House-Commercial Wiring ( Inverter , Solar[e.g. we had solar powered Casio Calculators also] and Generator{e.g. dynamos in Cars/Bikes etc. for their electrical components even battery-backed as well.} supported alongwith LIVE ) / Switches / Fan with Regulators / Air-Conditioners / Fridges-Cold_Storages / Security Components ( e.g. MCBs ) / Transformers / Power Grids (with secure tripping features) / Mixer-Grinder-Juicers / Toasters / Microwave Ovens / 3 Phase - 1 Phase and DC supplies / Electrical Vehicles / Washing Machines / TV { Black and White (learnable with PCB) - Colored (Analog - learnable) - Digital (Assemblable) { Machine-Driven - LCD - LED } -> Nowadays even in Smart TVs } / Smartboards ( e.g. available in Govt. Schools via. Govt. Schemes and also in private usually by high fee demands , we've got best deal at GNPS however but we want it only till 10th , we want better laboratory facilities ( Physics / Chemistry / Biology ) for my kid from +1 onwards best available in Govt. Schools  only )
+
+Sedra Smith
